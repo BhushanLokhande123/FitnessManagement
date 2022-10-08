@@ -6,4 +6,4 @@ const TrainingPlan = () => {
   )
 }
 
-export default TrainingPlan
+export default TrainingPlan;
